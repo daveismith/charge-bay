@@ -21,8 +21,11 @@ filters:
       - ["^SOT-23-", 270.0]
       - ["^USON-8", 270.0]
       - ["^TSSOP-", 270.0]
-      - ["^VSSOP-", 180.0]
+      - ["^VSSOP-", 0.0]
       - ["^QFN-", 270.0]
+      - field: Reference
+        regex: Q[6-8]
+        angle: 180.0
 
 global:
   variant: default
