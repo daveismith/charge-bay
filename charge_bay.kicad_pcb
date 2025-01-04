@@ -6991,7 +6991,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB" "C111113"
+		(property "JLCPCB" "C20526"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -7005,7 +7005,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCType" "Extended"
+		(property "JLCType" "Basic"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -9429,7 +9429,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "15pF"
+		(property "Value" "30pF"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "310f62c8-d959-4051-a54a-dbcf7c0f4f7b")
@@ -9483,7 +9483,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB" "C1644"
+		(property "JLCPCB" "C1658"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -11571,6 +11571,34 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "JLCPCB" "C2876186"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "79a6b6e4-e867-4841-b88b-643cfa41b136")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "JLCType" "Extended"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3074644d-f235-4945-9976-8a1ea9305034")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -16843,7 +16871,7 @@
 			)
 		)
 		(property "Value" "Conn_01x05_Socket"
-			(at 0 -12.93 90)
+			(at 5.427475 -4.2056 180)
 			(layer "B.Fab")
 			(uuid "3c47152a-7195-46b7-af92-3051eb00feb7")
 			(effects
@@ -17449,7 +17477,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB" "C111113"
+		(property "JLCPCB" "C20526"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17463,7 +17491,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCType" "Extended"
+		(property "JLCType" "Basic"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17750,7 +17778,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB" "C111113"
+		(property "JLCPCB" "C20526"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17764,7 +17792,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCType" "Extended"
+		(property "JLCType" "Basic"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -18292,7 +18320,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB" "C111113"
+		(property "JLCPCB" "C20526"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -18306,7 +18334,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCType" "Extended"
+		(property "JLCType" "Basic"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -26092,7 +26120,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB" "C111113"
+		(property "JLCPCB" "C20526"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -26106,7 +26134,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCType" "Extended"
+		(property "JLCType" "Basic"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -26764,7 +26792,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "15pF"
+		(property "Value" "30pF"
 			(at 0 -1.43 180)
 			(layer "B.Fab")
 			(uuid "6d9f4427-8e91-40db-8b4f-a55f3562134f")
@@ -26818,7 +26846,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB" "C1644"
+		(property "JLCPCB" "C1658"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -27779,7 +27807,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/partdetail/Yxc_CrystalOscillators-X322512MSB4SI/C9002"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -27807,7 +27835,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB" "C20625731"
+		(property "JLCPCB" "C9002"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -27821,7 +27849,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCType" "Extended"
+		(property "JLCType" "Basic"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -31993,16 +32021,35 @@
 			)
 		)
 	)
-	(gr_rect
-		(start 89.8144 40.152525)
+	(gr_line
+		(start 103.1 38.95)
+		(end 107.6144 38.952525)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "04be0617-17fd-4b20-8b2e-c0398d7231bf")
+	)
+	(gr_line
+		(start 89.8144 60.452525)
 		(end 107.6144 60.452525)
 		(stroke
 			(width 0.1)
 			(type default)
 		)
-		(fill none)
 		(layer "B.SilkS")
-		(uuid "01b51d6b-8ff0-4f9e-a073-4780a6e7700e")
+		(uuid "1cae9be7-7fb1-4040-bfb5-a3eeab1f520b")
+	)
+	(gr_line
+		(start 107.6144 38.952525)
+		(end 107.6144 18.652525)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "2a5c024c-e443-431a-b764-d70a975b64ff")
 	)
 	(gr_line
 		(start 35.2144 67.152525)
@@ -32024,16 +32071,15 @@
 		(layer "B.SilkS")
 		(uuid "4e97c914-01f8-4637-acca-d157cc46a613")
 	)
-	(gr_rect
-		(start 107.6144 38.952525)
-		(end 89.8144 18.652525)
+	(gr_line
+		(start 89.8144 40.152525)
+		(end 93.75 40.15)
 		(stroke
 			(width 0.1)
 			(type default)
 		)
-		(fill none)
 		(layer "B.SilkS")
-		(uuid "5ce26524-e1b0-4561-8143-816981e446b8")
+		(uuid "68d34644-0b2c-46d1-b79a-a672fc7c5704")
 	)
 	(gr_rect
 		(start 31.1644 63.004588)
@@ -32045,6 +32091,36 @@
 		(fill none)
 		(layer "B.SilkS")
 		(uuid "6c8dc375-6f58-4987-abef-88515428c83f")
+	)
+	(gr_line
+		(start 89.8144 40.152525)
+		(end 89.8144 60.452525)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "7cbaecb7-b33c-433b-ba18-7f95e2510d09")
+	)
+	(gr_line
+		(start 89.8144 18.652525)
+		(end 89.8144 36.15)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "88368c86-12d8-4477-847d-94752532f54d")
+	)
+	(gr_line
+		(start 107.6144 18.652525)
+		(end 89.8144 18.652525)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "8d3c252d-5422-4c7a-b87f-9efcd417ec84")
 	)
 	(gr_line
 		(start 38.3644 67.352525)
@@ -32138,6 +32214,16 @@
 		(uuid "da15b112-2106-46ed-b18d-efa3d184f6cb")
 	)
 	(gr_line
+		(start 93.75 40.15)
+		(end 89.8144 40.152525)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "e1102198-d26e-48b8-a344-ce362a55cdb9")
+	)
+	(gr_line
 		(start 36.2644 69.702525)
 		(end 38.3644 69.702525)
 		(stroke
@@ -32156,6 +32242,16 @@
 		)
 		(layer "B.SilkS")
 		(uuid "f3cc4c50-c85c-4220-847a-03e60b23a6b5")
+	)
+	(gr_line
+		(start 107.6144 60.452525)
+		(end 107.6144 43.175)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "f574cff3-2ba3-4409-bf88-3c1f7cb23154")
 	)
 	(gr_line
 		(start 31.4644 68.202525)
@@ -48700,15 +48796,19 @@
 	)
 	(group ""
 		(uuid "4558f255-50a4-4b27-8c9c-09e4565df613")
-		(members "01b51d6b-8ff0-4f9e-a073-4780a6e7700e" "6a1f04f3-37eb-4f9b-97d9-d0fe86aa8072"
-			"7151707b-5df2-4e9b-8991-87690529ac64" "d3f960e0-f35e-4ffc-adc7-ed5bc1af20be"
+		(members "1cae9be7-7fb1-4040-bfb5-a3eeab1f520b" "68d34644-0b2c-46d1-b79a-a672fc7c5704"
+			"6a1f04f3-37eb-4f9b-97d9-d0fe86aa8072" "7151707b-5df2-4e9b-8991-87690529ac64"
+			"7cbaecb7-b33c-433b-ba18-7f95e2510d09" "d3f960e0-f35e-4ffc-adc7-ed5bc1af20be"
+			"e1102198-d26e-48b8-a344-ce362a55cdb9" "f574cff3-2ba3-4409-bf88-3c1f7cb23154"
 		)
 	)
 	(group ""
 		(uuid "56e4bf72-8b78-4471-b5da-d987e971e2be")
-		(members "0372432a-7772-41ed-b8e3-ceab32187c84" "5ce26524-e1b0-4561-8143-816981e446b8"
-			"6a14aedb-5e4a-46b7-83e0-b0f86440ee7a" "87642d0c-c436-448f-8e76-8a97a52d072d"
-			"bce9b3cb-2215-46e0-ba66-8cb0782d6dcc" "f62766be-20ea-4dce-b4ba-a7a6b4853e1c"
+		(members "0372432a-7772-41ed-b8e3-ceab32187c84" "04be0617-17fd-4b20-8b2e-c0398d7231bf"
+			"2a5c024c-e443-431a-b764-d70a975b64ff" "6a14aedb-5e4a-46b7-83e0-b0f86440ee7a"
+			"87642d0c-c436-448f-8e76-8a97a52d072d" "88368c86-12d8-4477-847d-94752532f54d"
+			"8d3c252d-5422-4c7a-b87f-9efcd417ec84" "bce9b3cb-2215-46e0-ba66-8cb0782d6dcc"
+			"f62766be-20ea-4dce-b4ba-a7a6b4853e1c"
 		)
 	)
 	(generated
