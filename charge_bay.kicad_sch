@@ -12915,7 +12915,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB" "C111113"
+		(property "JLCPCB" "C20526"
 			(at 43.18 17.78 0)
 			(effects
 				(font
@@ -12924,7 +12924,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCType" "Extended"
+		(property "JLCType" "Basic"
 			(at 43.18 17.78 0)
 			(effects
 				(font
@@ -14897,7 +14897,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB" "C111113"
+		(property "JLCPCB" "C20526"
 			(at 53.34 17.78 0)
 			(effects
 				(font
@@ -14906,7 +14906,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCType" "Extended"
+		(property "JLCType" "Basic"
 			(at 53.34 17.78 0)
 			(effects
 				(font
@@ -18085,7 +18085,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB" "C111113"
+		(property "JLCPCB" "C20526"
 			(at 33.02 17.78 0)
 			(effects
 				(font
@@ -18094,7 +18094,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCType" "Extended"
+		(property "JLCType" "Basic"
 			(at 33.02 17.78 0)
 			(effects
 				(font
@@ -23027,7 +23027,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB" "C111113"
+		(property "JLCPCB" "C20526"
 			(at 22.86 17.78 0)
 			(effects
 				(font
@@ -23036,7 +23036,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCType" "Extended"
+		(property "JLCType" "Basic"
 			(at 22.86 17.78 0)
 			(effects
 				(font
@@ -23938,7 +23938,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB" "C111113"
+		(property "JLCPCB" "C20526"
 			(at 12.7 17.78 0)
 			(effects
 				(font
@@ -23947,7 +23947,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCType" "Extended"
+		(property "JLCType" "Basic"
 			(at 12.7 17.78 0)
 			(effects
 				(font
