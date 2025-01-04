@@ -32,10 +32,10 @@ filters:
         angle: 0.0
       - field: Reference
         regex: U2
-        angle: 270.0
+        angle: 90.0
       - field: Reference
         regex: U4
-        angle: 0.0
+        angle: 90.0
       - field: Reference
         regex: U5
         angle: 90.0
