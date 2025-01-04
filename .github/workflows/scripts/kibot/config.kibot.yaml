@@ -19,7 +19,6 @@ filters:
       - ["^SSOP-", 270.0]
       - ["^SOT-223-3", 0.0]
       - ["^SOT-23-", 270.0]
-      - ["^USON-8", 270.0]
       - ["^VSSOP-", 0.0]
     rotations_and_offsets:
       - field: Reference
@@ -35,8 +34,11 @@ filters:
         regex: U2
         angle: 270.0
       - field: Reference
+        regex: U4
+        angle: 0.0
+      - field: Reference
         regex: U5
-        angle: 180.0
+        angle: 90.0
       - field: Reference
         regex: D24
         angle: 0.0
