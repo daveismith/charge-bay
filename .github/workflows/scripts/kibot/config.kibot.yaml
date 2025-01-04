@@ -20,12 +20,25 @@ filters:
       - ["^SOT-223-3", 0.0]
       - ["^SOT-23-", 270.0]
       - ["^USON-8", 270.0]
-      - ["^TSSOP-", 270.0]
       - ["^VSSOP-", 0.0]
-      - ["^QFN-", 270.0]
     rotations_and_offsets:
       - field: Reference
         regex: Q[6-8]
+        angle: 0.0
+      - field: Reference
+        regex: Y2
+        angle: 180.0
+      - field: Reference
+        regex: U1
+        angle: 0.0
+      - field: Reference
+        regex: U2
+        angle: 270.0
+      - field: Reference
+        regex: U5
+        angle: 180.0
+      - field: Reference
+        regex: D24
         angle: 0.0
 
 global:
