@@ -23,6 +23,7 @@ filters:
       - ["^TSSOP-", 270.0]
       - ["^VSSOP-", 0.0]
       - ["^QFN-", 270.0]
+    rotations_and_offsets:
       - field: Reference
         regex: Q[6-8]
         angle: 180.0
