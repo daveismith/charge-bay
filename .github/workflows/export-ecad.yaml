@@ -1,6 +1,11 @@
 name: Export ECAD
 on:
   push:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
 
 jobs:
   export-ecad:
@@ -43,3 +48,10 @@ jobs:
         path: output
         if-no-files-found: error
         retention-days: 60
+
+    - name: Upload Export Files as Release Assets
+      if: github.event_name == 'release'
+      uses: softprops/action-gh-release@v2
+      with:
+        files: output/**/*
+        fail_on_unmatched_files: true
