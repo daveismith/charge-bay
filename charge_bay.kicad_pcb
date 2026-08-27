@@ -277,7 +277,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -305,7 +305,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c009da6d-99c5-4f65-885b-b29135087269")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -518,7 +518,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -546,7 +546,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b31e842c-7ea0-4e79-9040-7aa279ffbcdc")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -759,7 +759,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -787,7 +787,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/65a0b324-65cf-4712-9e90-258b46b68751")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -1000,7 +1000,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1028,7 +1028,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/7c3f1f30-cbbf-4786-b606-4749db84be2d")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -1241,7 +1241,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1269,7 +1269,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6329b814-88fd-4227-8ed0-290b2fe92c78")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -1482,7 +1482,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1510,7 +1510,7 @@
 		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/28dd99e7-fd1d-4439-96b6-b72c63e3c0df")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
@@ -1605,7 +1605,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1633,7 +1633,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/61174b3d-6e2e-42db-a16b-66b226fbd2f5")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -1846,7 +1846,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1874,7 +1874,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/02a5b2bc-eccc-47b3-9891-11b7c36e5a27")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -2087,7 +2087,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2115,7 +2115,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/dbd6b028-af42-4cf7-81f7-0551bb4930a8")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -2328,7 +2328,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2356,7 +2356,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/415af260-7320-457a-b6f6-8f646f8b14e3")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -2569,7 +2569,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2597,7 +2597,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/9aef55e8-7b58-46b7-9a77-8f2de3a33059")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -2810,7 +2810,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2838,7 +2838,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b16ce70d-8686-4705-9a8e-fee4cd1975a3")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -3051,7 +3051,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3079,7 +3079,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/f505499e-5eab-43bd-b47a-6092cb4fbc5f")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -3292,7 +3292,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3320,7 +3320,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/b6a81f1c-03fe-48bb-b6ed-c88c4c9767ae")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -3533,7 +3533,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3561,7 +3561,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/971ff529-a8fe-4317-9e8c-54583894339b")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -3774,7 +3774,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3802,7 +3802,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/26bcf9aa-ae49-42b6-bae7-0dc973b48a25")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -4015,7 +4015,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4043,7 +4043,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/31755f01-099e-49e5-bbfd-686fd65b96a6")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -4256,7 +4256,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4284,7 +4284,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2092846d-85b5-43bb-b23e-b9811f715503")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -4497,7 +4497,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4525,7 +4525,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/39388a0f-806e-4c95-a8fe-91284b164d3d")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -4739,7 +4739,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4767,7 +4767,7 @@
 		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/76473f04-3efd-4fe4-a52c-3531c2e4c026")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
@@ -4862,7 +4862,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4890,7 +4890,7 @@
 		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/a88231e3-a632-489b-aa3d-779c858ab0ac")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
@@ -4985,7 +4985,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5013,7 +5013,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/456f5cc2-94d3-4f1d-943f-672650465c92")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -5226,7 +5226,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5254,7 +5254,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/7712e5e2-310e-4cfc-b51a-0ceb61400db9")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -5467,7 +5467,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5495,7 +5495,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d8aa4d1d-0ecf-43f6-aa83-9a9b73510220")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -5708,7 +5708,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5736,7 +5736,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/bc15e0cf-e865-4042-b11b-07827b69b76f")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -5949,7 +5949,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5977,7 +5977,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/99a33dcf-7877-4918-adb3-9508d784bce5")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -6192,7 +6192,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6246,7 +6246,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/b99e57dc-20a9-4d04-8df4-0bb794629276")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -6422,7 +6422,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -6452,7 +6452,7 @@
 		)
 		(property ki_fp_filters "SolderJumper*Open*")
 		(path "/419abcbc-d084-4be5-a14b-cb1a347d8868")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files exclude_from_bom)
@@ -6674,7 +6674,7 @@
 		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/32126434-2d89-4bdb-a2df-27986c46cf55")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -6904,7 +6904,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -6962,7 +6962,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/12c55a78-d140-4493-b959-d8b661833cd9/b7901954-7249-46ee-b83a-5b9f36534d16")
-		(sheetname "Dynamixel")
+		(sheetname "/Dynamixel/")
 		(sheetfile "dynamixel.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -7138,7 +7138,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7192,7 +7192,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/70a8bb47-c63c-43ff-a4bf-c1367b0ae6de")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -7368,7 +7368,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -7398,7 +7398,7 @@
 		)
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/ea77d7d1-1741-4430-990a-fa4a7c5e30f1")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -8022,7 +8022,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -8076,7 +8076,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/410fc559-e09b-4de0-bb37-5628923ad52d")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8280,7 +8280,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB" "C17414"
+		(property "JLCPCB" "C25744"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -8310,7 +8310,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/12c55a78-d140-4493-b959-d8b661833cd9/3f69f09a-2f1d-4bd5-8a86-5756df6147a5")
-		(sheetname "Dynamixel")
+		(sheetname "/Dynamixel/")
 		(sheetfile "dynamixel.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8486,7 +8486,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -8544,7 +8544,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/eaf84b05-04eb-45e1-b819-15d90f4f3644")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -8778,7 +8778,7 @@
 		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/12c55a78-d140-4493-b959-d8b661833cd9/c90add4f-8eb7-4120-b176-a10ce9af65cc")
-		(sheetname "Dynamixel")
+		(sheetname "/Dynamixel/")
 		(sheetfile "dynamixel.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -9008,7 +9008,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -9066,7 +9066,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/b622cf85-9b1a-44cb-9f65-587bf39676cd")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -9242,7 +9242,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -9300,7 +9300,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/84a95352-c4b2-4e2d-8d20-c40bb0bb8ae9")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -9476,7 +9476,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -9534,7 +9534,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/35b9caf5-04b3-46d8-8283-702bca6e6bec")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -9768,7 +9768,7 @@
 		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/12c55a78-d140-4493-b959-d8b661833cd9/dd5b4111-6c94-42cc-ba5c-f51c98982112")
-		(sheetname "Dynamixel")
+		(sheetname "/Dynamixel/")
 		(sheetfile "dynamixel.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -9998,7 +9998,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -10056,7 +10056,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/7f73e9d4-3d1a-4e2f-90e0-898623f47fca")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -10232,7 +10232,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -10289,7 +10289,7 @@
 			)
 		)
 		(path "/1e46360c-9799-4181-8f34-e65baa2b0e3a")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -10529,7 +10529,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -10587,7 +10587,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/42b583e8-663d-4912-9cc5-3c4115e25d9e")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -10763,7 +10763,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -10821,7 +10821,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/929393e1-08c8-4ddf-b04a-599c1c7c3673")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -11055,7 +11055,7 @@
 		)
 		(property ki_fp_filters "WSON*1EP*3x3mm*P0.95mm*")
 		(path "/e25d6c13-879e-48ec-9916-6a6efe4f6da5")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -11335,7 +11335,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -11393,7 +11393,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/d4e745bc-81b2-4a3d-8d28-808c014f24b7")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -11569,7 +11569,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -11627,7 +11627,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/236bffd4-8300-4aad-8c53-044b8ec230df")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -11831,7 +11831,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB" "C17414"
+		(property "JLCPCB" "C25744"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -11861,7 +11861,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/12c55a78-d140-4493-b959-d8b661833cd9/dfc3efb7-6a1c-495a-9671-c2e765097ad6")
-		(sheetname "Dynamixel")
+		(sheetname "/Dynamixel/")
 		(sheetfile "dynamixel.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -12037,7 +12037,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12091,7 +12091,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/e207e6c5-f090-4120-b0d9-68566adfe117")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -12267,7 +12267,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -12325,7 +12325,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/85f24755-ca3a-4f47-b929-57514231268a")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -12501,7 +12501,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -12559,7 +12559,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/38b4deac-b99e-4c4d-80bd-7c3619819082")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -12792,7 +12792,7 @@
 			)
 		)
 		(path "/495d7968-78fd-4ca0-af9c-a9053de570d1")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -13025,8 +13025,8 @@
 			)
 		)
 		(property ki_fp_filters "VSSOP*")
-		(path "/12c55a78-d140-4493-b959-d8b661833cd9/c18a9dd6-b9de-4544-940f-e262a90416ff")
-		(sheetname "Dynamixel")
+		(path "/12c55a78-d140-4493-b959-d8b661833cd9/63d2bdfb-f817-40b4-a1a7-3001674ec234")
+		(sheetname "/Dynamixel/")
 		(sheetfile "dynamixel.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -13300,7 +13300,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -13358,7 +13358,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/6605d519-ca98-4b34-a736-b077e30b0609")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -13534,7 +13534,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -13592,7 +13592,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/4b4e9e82-31e8-4ee7-ac92-5691a8eba568")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -13768,7 +13768,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -13798,7 +13798,7 @@
 		)
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/63d9125e-1bba-437f-b413-35448e64bcaa")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -14422,7 +14422,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -14480,7 +14480,7 @@
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/39736c27-f73c-4171-9774-328a5284c3f3")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -14678,7 +14678,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -14736,7 +14736,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/866248fe-0542-481d-8fd9-e4b26bc4af69")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -14912,7 +14912,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -14942,7 +14942,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/5947ccb1-b7d6-49fc-979b-ae7d6e399f8c")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -15183,7 +15183,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -15213,7 +15213,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/db433c63-d041-4bca-8d14-a11fab2409e7")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -15595,7 +15595,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -15653,7 +15653,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/8efa0fa4-81f8-4ad5-b5b8-0a210ac04d0c")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -15885,7 +15885,7 @@
 		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/12c55a78-d140-4493-b959-d8b661833cd9/fa5b653c-640b-4b97-bd34-ae48f86139c0")
-		(sheetname "Dynamixel")
+		(sheetname "/Dynamixel/")
 		(sheetfile "dynamixel.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -16115,7 +16115,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -16145,7 +16145,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/65da0897-6590-4ebc-93f8-b237f69368ce")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -16408,7 +16408,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -16466,7 +16466,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/12c55a78-d140-4493-b959-d8b661833cd9/b627c2a1-ffcf-4fdf-9123-cb02138bc3ca")
-		(sheetname "Dynamixel")
+		(sheetname "/Dynamixel/")
 		(sheetfile "dynamixel.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -16700,7 +16700,7 @@
 		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/659d4bbe-45b5-4296-a59b-ab1c7bb3f988")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -16988,7 +16988,7 @@
 		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/0a3be488-ea66-4d64-bfcf-f2a90583a3ed")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -17218,7 +17218,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -17272,7 +17272,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/8ea0ffd1-ed97-4d4d-a73c-a29ec7a7fa10")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -17506,7 +17506,7 @@
 		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/e2798fb2-3db9-449a-89f9-f7701c6c21ed")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -17736,7 +17736,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17794,7 +17794,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/74e2a582-0227-4bf2-bf19-214b0a2e77fe")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -17970,7 +17970,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -18028,7 +18028,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/86b02efc-e604-4440-a043-c8b25a16fd7a")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -18204,7 +18204,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -18262,7 +18262,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/222bcaeb-b419-4577-be45-547a3af03813")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -18438,7 +18438,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -18496,7 +18496,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/12c55a78-d140-4493-b959-d8b661833cd9/a1f469a2-dabc-4819-ab93-3ecd7fe0c17e")
-		(sheetname "Dynamixel")
+		(sheetname "/Dynamixel/")
 		(sheetfile "dynamixel.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -18730,7 +18730,7 @@
 		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/1ac6911d-4a79-4fe7-bd7a-c32dc0aa3a09")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -18960,7 +18960,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -19018,7 +19018,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/3f7ff02f-7543-4579-bd42-487e0259df83")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -19222,7 +19222,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB" "C17414"
+		(property "JLCPCB" "C25744"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -19252,7 +19252,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/12c55a78-d140-4493-b959-d8b661833cd9/d84c6616-b981-4968-89f0-9ff6eab20d7e")
-		(sheetname "Dynamixel")
+		(sheetname "/Dynamixel/")
 		(sheetfile "dynamixel.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -19456,7 +19456,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB" "C17414"
+		(property "JLCPCB" "C25744"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -19486,7 +19486,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/12c55a78-d140-4493-b959-d8b661833cd9/bbfd7659-0e22-4bce-83b0-3721af591b00")
-		(sheetname "Dynamixel")
+		(sheetname "/Dynamixel/")
 		(sheetfile "dynamixel.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -19662,7 +19662,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -19720,7 +19720,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/03139aa4-0dbf-480e-bb6f-3ae89bbaef09")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -19954,7 +19954,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/5caafd33-6fa2-475e-ba16-67762043d1a8")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -20130,7 +20130,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -20160,7 +20160,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/12c55a78-d140-4493-b959-d8b661833cd9/ed7e8d49-04bf-4080-a21a-a47843862139")
-		(sheetname "Dynamixel")
+		(sheetname "/Dynamixel/")
 		(sheetfile "dynamixel.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -20608,7 +20608,7 @@
 		)
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm*")
 		(path "/35951e93-7474-445f-8cb0-a5cd9b8fc327")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -20888,7 +20888,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -20918,7 +20918,7 @@
 		)
 		(property ki_fp_filters "SolderJumper*Bridged12*")
 		(path "/12c55a78-d140-4493-b959-d8b661833cd9/42af3c66-3804-416c-a296-206ea32a77da")
-		(sheetname "Dynamixel")
+		(sheetname "/Dynamixel/")
 		(sheetfile "dynamixel.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files exclude_from_bom)
@@ -21202,7 +21202,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -21260,7 +21260,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/27d97305-ec56-47a9-b34f-a8dcb4727cc0")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -21436,7 +21436,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -21494,7 +21494,7 @@
 		)
 		(property ki_fp_filters "Crystal*")
 		(path "/be511fbc-28a5-43ed-8375-c00d9afda7cc")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -21738,7 +21738,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -21796,7 +21796,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/e1236a7a-a0ef-4958-8fd5-9142d61e3708")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -22029,7 +22029,7 @@
 		)
 		(property ki_fp_filters "USON-8_UX_2x3x0p6_WIN USON-8_UX_2x3x0p6_WIN-M USON-8_UX_2x3x0p6_WIN-L")
 		(path "/807b6c9b-0c12-47d2-8ee8-d89ee7c2cf36")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -22371,7 +22371,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -22428,7 +22428,7 @@
 			)
 		)
 		(path "/b5c4575b-2e16-467d-92b9-77186c0102aa")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -22917,7 +22917,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB" "C17414"
+		(property "JLCPCB" "C25744"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -22947,7 +22947,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/12c55a78-d140-4493-b959-d8b661833cd9/c3b8c233-bdac-4def-be40-4cc6bdff4536")
-		(sheetname "Dynamixel")
+		(sheetname "/Dynamixel/")
 		(sheetfile "dynamixel.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -23123,7 +23123,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -23153,7 +23153,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/12c55a78-d140-4493-b959-d8b661833cd9/56cb44d4-1438-49c8-86a3-044ee8aace8d")
-		(sheetname "Dynamixel")
+		(sheetname "/Dynamixel/")
 		(sheetfile "dynamixel.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -23495,7 +23495,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -23553,7 +23553,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/91d5d57e-d128-4070-8e88-659f76d4efe7")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -23757,7 +23757,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB" "C17414"
+		(property "JLCPCB" "C25744"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -23787,7 +23787,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/12c55a78-d140-4493-b959-d8b661833cd9/f92ac156-712a-4c97-9859-aa270657b311")
-		(sheetname "Dynamixel")
+		(sheetname "/Dynamixel/")
 		(sheetfile "dynamixel.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -23963,7 +23963,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -24021,7 +24021,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/2e877081-42be-4fde-92ac-eb013e235a93")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -24197,7 +24197,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -24255,7 +24255,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/9c042f19-834f-45b4-82c3-0ac571155a86")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -24431,7 +24431,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -24489,7 +24489,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/61744cbf-4e42-4df5-94d9-8a9c23a199ce")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -24665,7 +24665,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -24723,7 +24723,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/4de55968-be6d-43a7-9577-b77ba4c96fea")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -24957,7 +24957,7 @@
 		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/d09a167c-bed8-43fa-99d4-d1a2b1e03489")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -25187,7 +25187,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -25217,7 +25217,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/d2ae3aff-fc27-4eb9-99c0-37eff354f308")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -25599,7 +25599,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -25657,7 +25657,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/a78f6422-7216-4d96-a73a-23db6eb528fc")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -25890,7 +25890,7 @@
 			)
 		)
 		(path "/0c1e56c1-85b8-45a4-9e99-d5d6d1b73474")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -26068,7 +26068,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -26126,7 +26126,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/1977e418-b6c4-435e-9dd2-99bc29862a53")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -26302,7 +26302,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -26360,7 +26360,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/b28fe7a0-cb45-4903-a33a-ab9cee5f3a1d")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -26594,7 +26594,7 @@
 		)
 		(property ki_fp_filters "Crystal*")
 		(path "/0ba0ce42-dc3b-499a-92fd-2d3bf2f960f9")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -26838,7 +26838,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -26895,7 +26895,7 @@
 			)
 		)
 		(path "/e9dca0f9-8485-4851-9872-22ab7115fa46")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -27415,7 +27415,7 @@
 		)
 		(property ki_fp_filters "QFN*1EP*7x7mm?P0.4mm*")
 		(path "/1f28c0f8-2741-47b9-8a9f-d790b2433d6d")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -28254,7 +28254,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -28312,7 +28312,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/22f3257c-4366-4f72-9a5e-b3640ff06f83")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -28488,7 +28488,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -28546,7 +28546,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/5c229f7c-7897-4af8-bf4b-e2330a07784f")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -28722,7 +28722,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -28752,7 +28752,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/c272dcde-b3e6-4e81-aebc-cf28f4477f88")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -29015,7 +29015,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -29073,7 +29073,7 @@
 		)
 		(property ki_fp_filters "C_*")
 		(path "/2a3d65f1-b888-466a-852c-ef0fba84ddce")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -29249,7 +29249,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -29279,7 +29279,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/f8b55352-460b-46f4-a99a-0bfa73448c74")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -29576,7 +29576,7 @@
 		)
 		(property ki_fp_filters "TSSOP*4.4x6.5mm*P0.65mm*")
 		(path "/98964895-af05-4da8-9cc2-d275bf8090c2")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -30030,7 +30030,7 @@
 		)
 		(property ki_fp_filters "USB*C*Receptacle*")
 		(path "/007a050d-5654-4239-b320-0da091fb9ea5")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "charge_bay.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -30448,7 +30448,7 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB" "C17414"
+		(property "JLCPCB" "C25744"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -30478,7 +30478,7 @@
 		)
 		(property ki_fp_filters "R_*")
 		(path "/12c55a78-d140-4493-b959-d8b661833cd9/93e1f669-2461-4fdc-9b0a-0cfa155ef7d6")
-		(sheetname "Dynamixel")
+		(sheetname "/Dynamixel/")
 		(sheetfile "dynamixel.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -31001,7 +31001,7 @@
 		(layer "Edge.Cuts")
 		(uuid "d3f960e0-f35e-4ffc-adc7-ed5bc1af20be")
 	)
-	(gr_text "http://bitbucket.org/daveismith/hardware"
+	(gr_text "http://bitbucket.org/daveismith/charge-bay"
 		(at 27.3644 21.902525 0)
 		(layer "F.SilkS")
 		(uuid "70405c04-2c2b-45fe-a954-4c751c222dc0")
@@ -31014,7 +31014,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "v1.0 - <<hash>>"
+	(gr_text "<<version>> - <<hash>>"
 		(at 27.3644 23.402525 0)
 		(layer "F.SilkS")
 		(uuid "979355b3-23de-44ff-a195-4069bce65aaa")
