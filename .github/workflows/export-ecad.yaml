@@ -54,6 +54,13 @@ jobs:
           board: charge_bay.kicad_pcb
           dir: output
 
+    - name: Compress Gerber Files & Remove Raw Files
+      run: |
+        cd output/gerbers
+        zip -r ../gerbers.zip ./*
+        cd ..
+        rm -rf gerbers
+
     - name: Upload Export Files as Artifacts
       uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a  #v7.0.1
       with:
