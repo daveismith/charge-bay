@@ -11,7 +11,7 @@ jobs:
   export-ecad:
     name: Export ECAD
     runs-on: ubuntu-latest
-    container: ghcr.io/inti-cmnb/kicad8_auto:latest
+    container: ghcr.io/inti-cmnb/kicad9_auto:1.9.0
     steps:
 
     - name: Update system repositories, Install Required Libraries and Initialize git-lfs
@@ -21,7 +21,7 @@ jobs:
         git lfs install
 
     - name: Checkout Repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
       with:
         lfs: true
 
@@ -34,7 +34,7 @@ jobs:
         find . -name '*.kicad_pcb' -exec sed -i "s!<<hash>>!${COMMIT}!" {} \;
 
     - name: Generate Export Files
-      uses: INTI-CMNB/KiBot@v2_k8
+      uses: INTI-CMNB/KiBot@v2_k9_1_9_0
       with:
           config: .github/workflows/scripts/kibot/config.kibot.yaml
           schema: charge_bay.kicad_sch
