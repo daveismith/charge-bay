@@ -1,12 +1,17 @@
 name: Export ECAD
 on:
   push:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
 
 jobs:
   export-ecad:
     name: Export ECAD
     runs-on: ubuntu-latest
-    container: ghcr.io/inti-cmnb/kicad8_auto:latest
+    container: ghcr.io/inti-cmnb/kicad9_auto:1.9.0
     steps:
 
     - name: Update system repositories, Install Required Libraries and Initialize git-lfs
@@ -16,9 +21,10 @@ jobs:
         git lfs install
 
     - name: Checkout Repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 #v7.0.1
       with:
         lfs: true
+        fetch-depth: 0
 
     - name: Update the PCBs with git hash
       run: |
@@ -27,9 +33,21 @@ jobs:
         echo "ref: ${{ github.ref }}"
         echo "default: ${{ env.default }}"
         find . -name '*.kicad_pcb' -exec sed -i "s!<<hash>>!${COMMIT}!" {} \;
+        
+        # Determine version for <<version>> tag
+        if [ "${{ github.event_name }}" = "release" ]; then
+          # For release builds, extract version from tag (e.g., refs/tags/v1.2.3 -> v1.2.3)
+          export VERSION="${{ github.ref }}" && export VERSION="${VERSION##*/}"
+        else
+          # For non-release builds, get latest release tag and append +
+          export VERSION=$(git describe --tags --abbrev=0 2>/dev/null || echo "v0.0.0")
+          export VERSION="${VERSION}+"
+        fi
+        echo "VERSION = ${VERSION}"
+        find . -name '*.kicad_pcb' -exec sed -i "s!<<version>>!${VERSION}!" {} \;
 
-    - name: Generate Export Files
-      uses: INTI-CMNB/KiBot@v2_k8
+    - name: Generate Export Files 
+      uses: INTI-CMNB/KiBot@v2_k9_1_9_0
       with:
           config: .github/workflows/scripts/kibot/config.kibot.yaml
           schema: charge_bay.kicad_sch
@@ -37,9 +55,16 @@ jobs:
           dir: output
 
     - name: Upload Export Files as Artifacts
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a  #v7.0.1
       with:
         name: charge-bay
         path: output
         if-no-files-found: error
         retention-days: 60
+
+    - name: Upload Export Files as Release Assets
+      if: github.event_name == 'release'
+      uses: softprops/action-gh-release@3d0d9888cb7fd7b750713d6e236d1fcb99157228 #v3.0.2
+      with:
+        files: output/**/*
+        fail_on_unmatched_files: true
